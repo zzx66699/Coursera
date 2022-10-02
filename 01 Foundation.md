@@ -3,7 +3,8 @@
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/105503216/193411668-8ad4b409-e39c-423c-9103-86d3ea1ddb78.png">
 
 ## 2. Six Steps of data analysis
-ask prepare process analyze share act  
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/105503216/193458260-130741fd-833e-4f8f-a28b-be97bd93f400.png">  
+
 <img width="813" alt="image" src="https://user-images.githubusercontent.com/105503216/193412621-07f0fdd3-af8a-4c2c-b3df-cd3414a8f00a.png">  
 
 ## 3. Three components of Data science
