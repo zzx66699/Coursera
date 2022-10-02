@@ -2,7 +2,7 @@
 ## 1. What is data analysis  
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/105503216/193411668-8ad4b409-e39c-423c-9103-86d3ea1ddb78.png">
 
-## 2. Steps of data analysis
+## 2. Six Steps of data analysis
 ask prepare process analyze share act  
 <img width="813" alt="image" src="https://user-images.githubusercontent.com/105503216/193412621-07f0fdd3-af8a-4c2c-b3df-cd3414a8f00a.png">  
 
@@ -39,4 +39,8 @@ correlation
 big picture & detail-oriented thinking  
 
 ## 6. Data analysis tools
-<img width="219" alt="image" src="https://user-images.githubusercontent.com/105503216/193449932-2e2770ca-fad6-411d-8751-b5d1199cab71.png">
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/105503216/193449932-2e2770ca-fad6-411d-8751-b5d1199cab71.png">  
+
+## 7. Six stages of data life cycle
+<img width="787" alt="image" src="https://user-images.githubusercontent.com/105503216/193453900-3497db69-4d0b-47bc-88f3-99859272da97.png">
+
