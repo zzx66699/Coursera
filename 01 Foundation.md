@@ -12,3 +12,31 @@ These are separated by how many decisions you know you want to make before you b
 If you want to make a few important decisions under uncertainty, that is statistics.   
 If you want to automate, in other words, make many, many, many decisions under uncertainty, that is machine learning and AI.   
 If you don't know how many decisions you want to make before you begin? What you're looking for is inspiration? Yknowns. That is analytics.
+
+## 4. Five sets of analytical skills 
+analytical skills: The qualities and characteristics associated with solving problems using facts  
+
+#### curiosity: 
+a desire to know more about something, asking the right questions  
+
+#### a technical mindset: 
+The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way  
+
+#### understanding context: 
+The analytical skill that has to do with how you group things into categories   
+
+#### data design: 
+The analytical skill that involves how you organize information  
+
+#### data strategy: 
+The analytical skill that involves managing the processes and tools used in data analysis  
+
+## 5. Five aspects of analytical thinking
+visualization: the graphical representation of information  
+strategy  
+problem-oriented  
+correlation   
+big picture & detail-oriented thinking  
+
+## 6. Data analysis tools
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/105503216/193449932-2e2770ca-fad6-411d-8751-b5d1199cab71.png">
