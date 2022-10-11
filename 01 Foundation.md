@@ -45,3 +45,13 @@ big picture & detail-oriented thinking
 ## 7. Six stages of data life cycle
 <img width="787" alt="image" src="https://user-images.githubusercontent.com/105503216/193453900-3497db69-4d0b-47bc-88f3-99859272da97.png">
 
+## 8. unfair practice
+<img width="767" alt="image" src="https://user-images.githubusercontent.com/105503216/195099202-a5b8f532-165b-4073-8cd4-69ff9d777437.png">  
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/105503216/195099360-66c6b089-c855-487b-baa2-e48bf6e5d568.png">  
+
+<img width="753" alt="image" src="https://user-images.githubusercontent.com/105503216/195099741-608dbc41-8fa5-4e9d-bce3-7ebff32f550b.png">  
+<img width="713" alt="image" src="https://user-images.githubusercontent.com/105503216/195099789-23dd41b5-a297-4b00-935b-28b5b652f94b.png">
+
+
+
+
