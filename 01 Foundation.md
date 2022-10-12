@@ -5,7 +5,13 @@
 ## 2. Six Steps of data analysis
 <img width="218" alt="image" src="https://user-images.githubusercontent.com/105503216/193458260-130741fd-833e-4f8f-a28b-be97bd93f400.png">  
 
-<img width="813" alt="image" src="https://user-images.githubusercontent.com/105503216/193412621-07f0fdd3-af8a-4c2c-b3df-cd3414a8f00a.png">  
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/105503216/195352236-c7e1fd1c-4d86-429a-834f-4a94f0af036e.png">
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/195352633-db1c0582-0776-43db-83c7-b64937a59f50.png">  
+<img width="832" alt="image" src="https://user-images.githubusercontent.com/105503216/195352685-7f2082b2-af4e-48fd-aa70-c06c17097198.png">  
+<img width="810" alt="image" src="https://user-images.githubusercontent.com/105503216/195352768-daa6a145-a5a2-4c87-9220-869816a7721a.png">  
+<img width="838" alt="image" src="https://user-images.githubusercontent.com/105503216/195352937-2cebdd2c-9c60-4090-a0c8-ba92f01be1f1.png">  
+<img width="837" alt="image" src="https://user-images.githubusercontent.com/105503216/195353028-9e27cddc-cb9c-4434-96cb-2c428af7fd3d.png">  
+  
 
 ## 3. Three components of Data science
 Machine learning, Statistics and Analytics  
