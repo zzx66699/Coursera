@@ -27,4 +27,6 @@ prints, billboard, TV commercials, public transpotation, podcast, video
 is about connecting the right customer with the right message at the right time
 
 ## 3. highly effective questions 
-<img width="687" alt="image" src="https://user-images.githubusercontent.com/105503216/196023862-fea119ff-80ea-4e28-87d5-2ca79898e312.png">
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/105503216/196023862-fea119ff-80ea-4e28-87d5-2ca79898e312.png">  
+<img width="714" alt="image" src="https://user-images.githubusercontent.com/105503216/196024455-2aa75b3d-c950-4306-bb96-649c2f0ab380.png">
+
