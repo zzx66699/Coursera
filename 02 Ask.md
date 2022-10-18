@@ -52,3 +52,14 @@ short-term performance tracking and intermediate goals
 consists of the datasets and the mathematics used in these sets  
 <img width="749" alt="image" src="https://user-images.githubusercontent.com/105503216/196123387-00e78696-66ce-4d94-9380-0b3a32cc575f.png">
 
+## 8. Scope of work
+<img width="1027" alt="image" src="https://user-images.githubusercontent.com/105503216/196366245-30829a3c-1169-4299-9f20-0f74af126587.png">
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/105503216/196366435-9b0cbc0c-9562-46f7-959c-3be898ec2b0b.png">
+<img width="1180" alt="image" src="https://user-images.githubusercontent.com/105503216/196367113-2532dd7c-deef-4876-99c4-e80a22f5dae2.png">
+
+## 9. different stages of data application
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/105503216/196370151-6b5d6533-7d46-4775-b7f8-fa4614431bcc.png">
+
+## 10. context
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/105503216/196371006-1fb1bc46-711f-4a75-8962-47b25eec73f1.png">
+
