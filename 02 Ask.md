@@ -63,3 +63,14 @@ consists of the datasets and the mathematics used in these sets
 ## 10. context
 <img width="814" alt="image" src="https://user-images.githubusercontent.com/105503216/196371006-1fb1bc46-711f-4a75-8962-47b25eec73f1.png">
 
+## 11. effective communication
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/105503216/196400056-d78305fc-6e1a-46e8-9971-4f74dab16def.png">
+
+## 12. E-mail sample
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/105503216/196401316-9fc21f3d-fb57-4557-85c6-dac2d18acb4a.png">
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/105503216/196401641-81c6c0b6-1d2d-4a8c-af52-2316219e57c2.png"> 
+<img width="831" alt="image" src="https://user-images.githubusercontent.com/105503216/196403301-6250add5-08c9-4805-ae6d-0946d750d9c3.png">
+<img width="819" alt="image" src="https://user-images.githubusercontent.com/105503216/196403378-08e6af25-7d93-4ac9-b0e3-9edebd111a53.png">
+
+
+
