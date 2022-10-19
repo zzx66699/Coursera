@@ -19,7 +19,10 @@
 ### 2.4 how much data to collect
 <img width="843" alt="image" src="https://user-images.githubusercontent.com/105503216/196623579-7a5fbc29-4e38-4228-988f-8b8c7e7c9c04.png">
 
-### 2.5 set the right data type
+### 2.5 set the right data type 
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/105503216/196718093-5f7aa55a-42d3-4da3-bd1b-7e2353a1cb9b.png">
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/105503216/196718306-8a833ab6-74bd-4784-a664-cbb0eecd5f39.png">
+
 discrete data    
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/105503216/196625360-aea9998f-7099-4ce4-8e02-59e6510c80fe.png">    
 
@@ -33,6 +36,7 @@ nominal data
 
 ordinal data  
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/105503216/196625785-eda4d480-36c4-4232-9402-beee965e5a07.png">  
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/105503216/196718510-2b794752-2134-4c14-942b-20e1acbc7875.png">
 
 
 ### 2.6 determine the timeframe
