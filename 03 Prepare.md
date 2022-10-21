@@ -62,5 +62,63 @@ ordinal data
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/105503216/196912292-809592f2-1748-45b6-a4ad-9590f31c3c50.png">
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/105503216/196914237-18d5fbc1-35e0-4633-89e0-ca40e64d5b7a.png">
 
+## 5. bias 
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/105503216/197137085-680608b0-273f-46b1-9ce9-298f20ed2007.png">
 
+### 5.1 sample bias
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/105503216/197137195-2438f585-c050-4d55-bb18-cb8130a084e1.png">
 
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/105503216/197139855-8ac8be25-0525-444b-8de1-62b926c12eb6.png">
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/105503216/197141124-aad876e4-ef96-46dc-8222-73adb51ec919.png">
+<img width="670" alt="image" src="https://user-images.githubusercontent.com/105503216/197140971-586d94e8-5c77-493f-9f29-88a7a560f6a2.png">
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/105503216/197142297-459a22d6-807d-4da3-85b3-6efd664fe8a1.png">
+<img width="731" alt="image" src="https://user-images.githubusercontent.com/105503216/197142549-cfd23dda-6728-42ee-bea1-47451b18d75c.png">
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/105503216/197143137-2e1052a3-f233-4965-afa5-cf69957700fa.png">
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/105503216/197143297-755a81ae-be94-4f2a-9911-172b717f0224.png">
+
+### 5.2 observation bias (experimenter bias or research bias)
+it's the tendency for different people to observe things differently.  
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/105503216/197139101-5c7eca0f-f9c2-41f7-8c35-787fcc2edad8.png">  
+
+### 5.3 interpretation bias
+The tendency to always interpret ambiguous situations in a positive, or negative way because of their experience, background or something.   
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/105503216/197139302-4c6575c0-3264-4dbd-b4c9-37909ea8909e.png">
+
+### 5.4 confirmation bias
+Confirmation bias, is the tendency to search for, or interpret information in a way that confirms preexisting beliefs.  
+
+## 6. data credibility
+<img width="403" alt="image" src="https://user-images.githubusercontent.com/105503216/197150521-024ffeff-9c18-48c3-a772-4a6216c909ba.png">
+
+## 7. data ethics
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/105503216/197151048-e360ba11-2f5a-452b-9781-50c70aacb948.png">
+
+## 8. resources for open data
+https://data.gov/  
+https://www.census.gov/data.html  
+https://www.opendatanetwork.com/  
+https://cloud.google.com/datasets   
+https://datasetsearch.research.google.com/  
+
+## 9. database
+A primary key is an identifier that references a column in which each value is unique.   
+A foreign key is a field within a table that's a primary key in another table. In other words, a foreign key is how one table can be connected to another.    
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/105503216/197161317-4d33f203-baa4-40f4-904e-87019c46c13a.png">
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/105503216/197161417-0a1e8505-cd09-4de1-a339-ce959d40949d.png">
+
+## 10. metadata
+data about data  
+In data analytics, metadata helps data analysts interpret the contents of the data within a database.  
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/105503216/197166574-08bbb326-6203-46a3-ae5e-da4b4587dbae.png">
+
+### 10.1 descriptive metadata
+<img width="816" alt="image" src="https://user-images.githubusercontent.com/105503216/197165681-b0561e12-05a2-4b40-8250-30a1fa46c4d6.png">
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/105503216/197165755-95c9c77f-1547-4645-affe-cc1dd1454402.png">
+
+### 10.2 structural metadata
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/105503216/197165875-8a8c2df7-c1d7-430b-977d-128f5bb08c41.png">
+<img width="662" alt="image" src="https://user-images.githubusercontent.com/105503216/197166056-3fab33d7-fae3-4cd8-a645-304903e3c970.png">
+
+### 10.3 administrative metadata
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/105503216/197166180-bb29bef5-ea9a-42d3-9070-73237cb624af.png">
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/105503216/197166284-54461a51-1ebb-4405-af1b-03f291e9b8cb.png">
