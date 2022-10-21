@@ -12,7 +12,7 @@ click any cell within the column / select the whole column
 ### 1.3 adjust the column width
 select all the column you need to adjust  
 drag the boundary of one column  
-<img width="396" alt="image" src="https://user-images.githubusercontent.com/105503216/196186012-c851a0a9-512c-4bf9-a617-5a2c77d8c1f8.png">
+
 
 ### 1.4 freeze header rows
 <img width="707" alt="image" src="https://user-images.githubusercontent.com/105503216/196187811-25ca51c7-d562-47bd-9c8c-b80f06ab1975.png">
@@ -42,12 +42,18 @@ fill handle: a little box that appears in the lower right-hand corner when you c
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/105503216/196327482-38ae53f8-fcbf-4cd1-b839-df770aa31de8.png">
 <img width="497" alt="image" src="https://user-images.githubusercontent.com/105503216/196327523-e531b7ce-3cd8-4c98-a5cf-0778ef889a60.png">
 
+### 1.10 filter
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/105503216/197200132-23583be9-08c6-4b0e-b60e-75035c6bc648.png">
+click again to cancel the filter
+<img width="109" alt="image" src="https://user-images.githubusercontent.com/105503216/197200381-eda0fd4d-f4ce-4a31-b55d-2283ccea1aea.png">  
+
 ## 02 Formulas 公式
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/196190243-0b9945b5-d26d-4a56-8483-6b081c916b9b.png">   
 <img width="217" alt="image" src="https://user-images.githubusercontent.com/105503216/196192040-63251923-c358-4848-a3dd-268dcedb1c25.png">  
 
 ### 2.1 cell reference
-<img width="578" alt="image" src="https://user-images.githubusercontent.com/105503216/196189451-913b3d34-287f-430e-a3c7-2aa6a4f9dfb0.png">
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/105503216/196189451-913b3d34-287f-430e-a3c7-2aa6a4f9dfb0.png">   
+
 
 
 ## 03 Functions  
