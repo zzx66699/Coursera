@@ -47,6 +47,10 @@ fill handle: a little box that appears in the lower right-hand corner when you c
 click again to cancel the filter
 <img width="109" alt="image" src="https://user-images.githubusercontent.com/105503216/197200381-eda0fd4d-f4ce-4a31-b55d-2283ccea1aea.png">  
 
+### 1.11 find and replace
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/105503216/197204203-be441878-6996-4584-aa8d-773dd42fb462.png">
+
+
 ## 02 Formulas 公式
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/196190243-0b9945b5-d26d-4a56-8483-6b081c916b9b.png">   
 <img width="217" alt="image" src="https://user-images.githubusercontent.com/105503216/196192040-63251923-c358-4848-a3dd-268dcedb1c25.png">  
