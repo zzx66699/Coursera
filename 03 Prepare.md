@@ -41,3 +41,26 @@ ordinal data
 
 ### 2.6 determine the timeframe
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/105503216/196623643-024f6494-9422-46ed-a0de-8623ead0095f.png">
+
+## 3. data modeling technique
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/105503216/196903313-8ad2705e-a69c-4334-9d14-12cb94658477.png">
+
+### 3.1 entity relationship diagrams ERD 实体关系图
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/105503216/196906839-22576e6d-9514-42f1-a0e9-ff18aa3d4f35.png">
+
+### 3.2 Unified Modeling Language (UML) diagram
+<img width="726" alt="image" src="https://user-images.githubusercontent.com/105503216/196907492-f831bc85-8fc3-453a-bb52-eb325e844546.png">
+
+## 4. type of data
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/105503216/196909095-7f25dd26-67b9-4911-b0be-72bf512982b1.png">
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/105503216/196911403-8bbfa1c0-bdee-4f00-aaca-f8a1ae1f257a.png">
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/105503216/196913200-bce6027b-4d84-48d6-9a4b-91ed71bfc157.png">
+
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/105503216/196912013-2e7aa95a-dff5-4e8c-9541-f379b2f31971.png">
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/105503216/196913102-15707737-0870-4e32-8542-6a73e58cbe4b.png">
+
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/105503216/196912292-809592f2-1748-45b6-a4ad-9590f31c3c50.png">
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/105503216/196914237-18d5fbc1-35e0-4633-89e0-ca40e64d5b7a.png">
+
+
+
