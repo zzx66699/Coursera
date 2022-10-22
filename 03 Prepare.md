@@ -123,3 +123,7 @@ In data analytics, metadata helps data analysts interpret the contents of the da
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/105503216/197166180-bb29bef5-ea9a-42d3-9070-73237cb624af.png">
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/105503216/197166284-54461a51-1ebb-4405-af1b-03f291e9b8cb.png">
 
+## 11. Organize the data
+### 11.1 name convention
+<img width="832" alt="image" src="https://user-images.githubusercontent.com/105503216/197323217-ee249f1a-4810-4b38-9a1f-f0db3f277227.png">
+
