@@ -123,6 +123,3 @@ In data analytics, metadata helps data analysts interpret the contents of the da
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/105503216/197166180-bb29bef5-ea9a-42d3-9070-73237cb624af.png">
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/105503216/197166284-54461a51-1ebb-4405-af1b-03f291e9b8cb.png">
 
-## 11. bigquery
-<img width="721" alt="image" src="https://user-images.githubusercontent.com/105503216/197207853-827f9526-7af3-441f-8bfc-b76c514d071e.png">
-<img width="1185" alt="Screenshot 2022-10-21 at 9 35 32 PM" src="https://user-images.githubusercontent.com/105503216/197209447-28e333c9-d601-467e-a8fa-3ecdf9d043e3.png">
