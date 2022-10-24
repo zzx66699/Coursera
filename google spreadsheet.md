@@ -78,6 +78,9 @@ deal with div error
 change number to text:  =TEXT(B2,"mmmm")
 <img width="928" alt="image" src="https://user-images.githubusercontent.com/105503216/196333559-05ce8ece-7911-4c86-a04c-a6f78fe669f1.png">
 
+### 3.4 DATEDIF 
+
+
 ## 04 sreadsheet errors and fix
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/105503216/196193195-9ebbf454-508d-4fc4-9a74-d6ee285bda1f.png">
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/105503216/196196440-3efdc15c-ee0f-4b98-966e-4d82f7706d55.png">
