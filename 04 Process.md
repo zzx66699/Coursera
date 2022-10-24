@@ -12,14 +12,15 @@ outdated data
 geographically-limited data  
 
 ### 1.2 how to solve
-1. proxy the data
-use sample to do preliminary analysis
-use the data from another place/people with a similar size and demographic.   
-make prediction or analyse trend based on the current data, and illustrate that it is the best model based on current situation.  
+1. make prediction or analyse trend based on the current data, and illustrate that it is the best model based on current situation  
 
-2. collect more data
-ask more time for more information or change another dataset(if it is outdated)   
+2. proxy the data  
+use sample to do preliminary analysis   
+use the data from another place/people with a similar size and demographic.    
+  
+3. collect more data  
+ask more time for more information or change another dataset(if it is outdated)     
 
-3. modify the business objective
+4. modify the business objective  
 
 
