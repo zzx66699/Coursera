@@ -33,3 +33,12 @@ ask more time for more information or change another dataset(if it is outdated)
 ### 2.2 random sampling
 <img width="821" alt="image" src="https://user-images.githubusercontent.com/105503216/197547799-bda29741-44d3-4c69-91ff-2d3be7f75f6b.png">
 
+## 3. statistic power 统计功效 & Hypothesis testing 假设检验
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/105503216/197709324-583a8e26-a6c7-4868-ad02-0299fc73ef5d.png">
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/105503216/197709724-8e4f0ea0-940e-4fbb-8286-2aa1f50bad0d.png">
+
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/105503216/197709914-0acc84e2-a00d-4212-874d-9fbc6fee4601.png">
+<img width="821" alt="image" src="https://user-images.githubusercontent.com/105503216/197709823-e58f19fe-e6b8-4928-abd1-bf3f4c3b79b0.png">
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/105503216/197708833-8f87570a-320e-4ff8-ab75-14aa97935e3a.png">
+
+### 2.2 random sampling
