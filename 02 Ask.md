@@ -3,6 +3,7 @@
 ## 1. 6 problem types
 
 ### 1.1 making predictions
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/105503216/197711672-fb6860b6-f0a5-4391-a0c9-b6aca2231022.png">
 
 ### 1.2 categorizing things
 assign information to different groups or clusters based on common features
