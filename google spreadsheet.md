@@ -50,6 +50,9 @@ click again to cancel the filter
 ### 1.11 find and replace
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/105503216/197204203-be441878-6996-4584-aa8d-773dd42fb462.png">
 
+### 1.12 delete the format
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/105503216/198542189-684bdadf-0887-45ad-9ae2-07abda09541f.png">
+
 
 ## 02 Formulas 公式
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/196190243-0b9945b5-d26d-4a56-8483-6b081c916b9b.png">   
@@ -82,24 +85,28 @@ change number to text:  =TEXT(B2,"mmmm")
 
 
 ## 04 sreadsheet errors and fix
-<img width="852" alt="image" src="https://user-images.githubusercontent.com/105503216/196193195-9ebbf454-508d-4fc4-9a74-d6ee285bda1f.png">
-<img width="645" alt="image" src="https://user-images.githubusercontent.com/105503216/196196440-3efdc15c-ee0f-4b98-966e-4d82f7706d55.png">
-<img width="866" alt="image" src="https://user-images.githubusercontent.com/105503216/196193256-7001e40f-e15a-47ab-bac4-e0424c542add.png">
-<img width="599" alt="image" src="https://user-images.githubusercontent.com/105503216/196195671-e0a32fab-12be-41bd-ba9e-571316ed83ab.png">
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/105503216/196193353-ed1f56c0-0294-4a2f-8ab7-cf42c3bef39e.png">
-<img width="633" alt="image" src="https://user-images.githubusercontent.com/105503216/196196797-988e1051-d189-4597-afd8-8e56b105e059.png">
-<img width="580" alt="image" src="https://user-images.githubusercontent.com/105503216/196194644-977b4bad-9f26-4feb-81ba-89a34ea005f2.png">
-<img width="668" alt="image" src="https://user-images.githubusercontent.com/105503216/196196871-4e12a368-fedd-4262-b780-729851c7c3e7.png">
-<img width="840" alt="image" src="https://user-images.githubusercontent.com/105503216/196194496-5736b99b-6a49-4c29-adc7-9d8f5d93fe1d.png">  
-<img width="517" alt="image" src="https://user-images.githubusercontent.com/105503216/196194216-944a5bc0-28d3-4e68-a3ff-709ebcc93f5b.png">
-<img width="878" alt="image" src="https://user-images.githubusercontent.com/105503216/196194867-60de4e6b-31e3-41a7-9446-ca3166c926a8.png">
-<img width="726" alt="image" src="https://user-images.githubusercontent.com/105503216/196195088-6b134e2a-f4d4-44b5-8c05-9eaf4d03ce10.png">
-<img width="777" alt="image" src="https://user-images.githubusercontent.com/105503216/196195143-5511c561-a7d5-4067-8739-16bbce08f4ff.png">
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/105503216/196195293-68f036a1-bf73-413b-8e3c-72fbe2436359.png">
-<img width="645" alt="image" src="https://user-images.githubusercontent.com/105503216/196195552-05c07cf7-2f48-4c90-841a-2170a6e6fb1c.png">
-
 ### 4.1 Spotting errors in spreadsheets with conditional formatting
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/105503216/196197356-58567a45-f34c-48a2-9a4e-f52f6800b81c.png">
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/105503216/196197285-f23e5573-596c-4144-83eb-eff9fc56e76c.png">
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/105503216/196198038-31db57b7-692b-4861-871d-4f38a614f1f4.png"> <img width="344" alt="image" src="https://user-images.githubusercontent.com/105503216/196197961-ab8846aa-b82f-4cbd-9a47-0b5e63ad06ae.png">
+
+## 05 data cleaning
+### 5.1 conditional formatting
+format - conditional formatting 条件格式  
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/105503216/198544326-d660f3eb-71a4-48cf-90bd-5be9875e96a0.png">  
+
+### 5.2 remove duplicate
+data - data clean - remove duplicate   
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/105503216/198545144-c2154bcd-28c4-4c4c-b9cd-58c58046683e.png">
+
+### 5.3 date format
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/105503216/198545100-ebe5e9fb-d95d-4448-b6bd-1caa8becb8bb.png">
+
+### 5.4 split the column
+data - split text to columns  
+<img width="444" alt="Screenshot 2022-10-28 at 4 48 49 PM" src="https://user-images.githubusercontent.com/105503216/198545940-0ea38e9a-fc02-48e5-9257-2b96011bda93.png">  
+
+#### fix the instances of number stored as text
+<img width="231" alt="image" src="https://user-images.githubusercontent.com/105503216/198547338-1a5a34d0-8c51-4d70-ac9f-ff80408141f7.png"><img width="168" alt="image" src="https://user-images.githubusercontent.com/105503216/198547427-72e3ed55-b18a-4928-9264-7bdf3addd828.png">
+
