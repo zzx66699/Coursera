@@ -127,3 +127,19 @@ In data analytics, metadata helps data analysts interpret the contents of the da
 ### 11.1 name convention
 <img width="832" alt="image" src="https://user-images.githubusercontent.com/105503216/197323217-ee249f1a-4810-4b38-9a1f-f0db3f277227.png">
 
+## 12 google sheet errors
+<img width="852" alt="image" src="https://user-images.githubusercontent.com/105503216/196193195-9ebbf454-508d-4fc4-9a74-d6ee285bda1f.png">
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/105503216/196196440-3efdc15c-ee0f-4b98-966e-4d82f7706d55.png">
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/105503216/196193256-7001e40f-e15a-47ab-bac4-e0424c542add.png">
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/105503216/196195671-e0a32fab-12be-41bd-ba9e-571316ed83ab.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/105503216/196193353-ed1f56c0-0294-4a2f-8ab7-cf42c3bef39e.png">
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/105503216/196196797-988e1051-d189-4597-afd8-8e56b105e059.png">
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/105503216/196194644-977b4bad-9f26-4feb-81ba-89a34ea005f2.png">
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/105503216/196196871-4e12a368-fedd-4262-b780-729851c7c3e7.png">
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/105503216/196194496-5736b99b-6a49-4c29-adc7-9d8f5d93fe1d.png">  
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/105503216/196194216-944a5bc0-28d3-4e68-a3ff-709ebcc93f5b.png">
+<img width="878" alt="image" src="https://user-images.githubusercontent.com/105503216/196194867-60de4e6b-31e3-41a7-9446-ca3166c926a8.png">
+<img width="726" alt="image" src="https://user-images.githubusercontent.com/105503216/196195088-6b134e2a-f4d4-44b5-8c05-9eaf4d03ce10.png">
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/105503216/196195143-5511c561-a7d5-4067-8739-16bbce08f4ff.png">
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/105503216/196195293-68f036a1-bf73-413b-8e3c-72fbe2436359.png">
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/105503216/196195552-05c07cf7-2f48-4c90-841a-2170a6e6fb1c.png">
