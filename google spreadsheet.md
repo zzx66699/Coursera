@@ -89,7 +89,7 @@ change number to text:  =TEXT(B2,"mmmm")
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/105503216/196198038-31db57b7-692b-4861-871d-4f38a614f1f4.png"> <img width="344" alt="image" src="https://user-images.githubusercontent.com/105503216/196197961-ab8846aa-b82f-4cbd-9a47-0b5e63ad06ae.png">
 
 ## 05 data cleaning
-### 5.1 conditional formatting
+### 5.1 conditional formatting to find blank
 format - conditional formatting 条件格式  
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/105503216/198544326-d660f3eb-71a4-48cf-90bd-5be9875e96a0.png">  
 
@@ -106,7 +106,6 @@ data - split text to columns
 
 #### fix the instances of number stored as text
 <img width="231" alt="image" src="https://user-images.githubusercontent.com/105503216/198547338-1a5a34d0-8c51-4d70-ac9f-ff80408141f7.png"><img width="168" alt="image" src="https://user-images.githubusercontent.com/105503216/198547427-72e3ed55-b18a-4928-9264-7bdf3addd828.png">
-
 
 ### 5.5 LEN
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/105503216/198881517-e5e71756-7894-44aa-b910-03870aea11c8.png">  
