@@ -80,6 +80,9 @@ change number to text:  =TEXT(B2,"mmmm")
 
 ### 3.4 DATEDIF 
 
+### 3.5 VLOOKUP
+VLOOKUP(data to look up, 'where to look up'!range, return column, false)
+
 
 ## 04 sreadsheet errors and fix
 ### 4.1 Spotting errors in spreadsheets with conditional formatting
