@@ -110,7 +110,11 @@ data - data clean - remove duplicate
 
 ### 5.4 split the column
 data - split text to columns  
-<img width="444" alt="Screenshot 2022-10-28 at 4 48 49 PM" src="https://user-images.githubusercontent.com/105503216/198545940-0ea38e9a-fc02-48e5-9257-2b96011bda93.png">  
+<img width="444" alt="Screenshot 2022-10-28 at 4 48 49 PM" src="https://user-images.githubusercontent.com/105503216/198545940-0ea38e9a-fc02-48e5-9257-2b96011bda93.png">    
+
+also you can use =SPLIT(F2,"-")    
+The first entry (F2) refers to the cell where the text is located.   
+The second entry (“-”) refers to the fact that you are dividing the text based on the minus sign.  
 
 #### fix the instances of number stored as text
 <img width="231" alt="image" src="https://user-images.githubusercontent.com/105503216/198547338-1a5a34d0-8c51-4d70-ac9f-ff80408141f7.png"><img width="168" alt="image" src="https://user-images.githubusercontent.com/105503216/198547427-72e3ed55-b18a-4928-9264-7bdf3addd828.png">
@@ -129,8 +133,9 @@ MID(range, reference starting point, number of middle characters)
 
 ### 5.7 CONCATENATE
 <img width="1001" alt="image" src="https://user-images.githubusercontent.com/105503216/198883215-5826ffe9-754e-4b65-a6e8-f621da7f20db.png">  
-You can also add a space/xxx between two variables  
-**remember to add "" instead of ''!!!  **  
+You can also add a space/xxx between two variables     
+
+remember to add "" instead of ''!!!    
 <img width="1184" alt="image" src="https://user-images.githubusercontent.com/105503216/199388967-b08bc205-0263-4870-bf92-39716f8f1866.png">  
 
 ### 5.8 TRIM
