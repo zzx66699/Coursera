@@ -53,6 +53,9 @@ click again to cancel the filter
 ### 1.12 delete the format
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/105503216/198542189-684bdadf-0887-45ad-9ae2-07abda09541f.png">
 
+## 1.13 plotting 
+insert - chart   
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/105503216/199387614-8529ff98-9a6d-4192-b644-321c45ae2adb.png">  
 
 ## 02 Formulas 公式
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/196190243-0b9945b5-d26d-4a56-8483-6b081c916b9b.png">   
@@ -81,7 +84,9 @@ change number to text:  =TEXT(B2,"mmmm")
 ### 3.4 DATEDIF 
 
 ### 3.5 VLOOKUP
-VLOOKUP(data to look up, 'where to look up'!range, return column, false)
+VLOOKUP(data to look up, 'where to look up'!range, return column, false)  
+the return column should be a number, instead of a range  
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/105503216/199386870-161e3450-e7be-4dc7-be4c-2471b7476c5e.png">  
 
 
 ## 04 sreadsheet errors and fix
@@ -123,7 +128,10 @@ MID(range, reference starting point, number of middle characters)
 <img width="232" alt="image" src="https://user-images.githubusercontent.com/105503216/198881839-bc6b3360-f665-428d-820f-2111a116a95e.png">  
 
 ### 5.7 CONCATENATE
-<img width="1001" alt="image" src="https://user-images.githubusercontent.com/105503216/198883215-5826ffe9-754e-4b65-a6e8-f621da7f20db.png">
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/105503216/198883215-5826ffe9-754e-4b65-a6e8-f621da7f20db.png">  
+You can also add a space/xxx between two variables  
+**remember to add "" instead of ''!!!  **  
+<img width="1184" alt="image" src="https://user-images.githubusercontent.com/105503216/199388967-b08bc205-0263-4870-bf92-39716f8f1866.png">  
 
 ### 5.8 TRIM
 fix extra spaces   
