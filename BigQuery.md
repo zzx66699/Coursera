@@ -16,11 +16,20 @@ choose a project
 #### 1.2.1 upload table  
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/105503216/197318738-0dbca32f-557d-4d8c-81c6-fa21d3a6e333.png">   
 
-schema 架构  
+**schema 架构**   
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/105503216/197320690-4b77d355-0243-4c15-ba82-3573dc8c6752.png">  
 select Edit as text and input the following code:   
-name:string,gender:string,count:integer   
+``` 
+name:string, gender:string, count:integer   
+```
+
 This will establish the data types of the three columns in the table.  
+
+**Advanced options**  
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/105503216/200733226-8b832fa7-1d67-4fa5-8646-37b0cff0f474.png">  
+This can deal with files with headings  
+<img width="973" alt="image" src="https://user-images.githubusercontent.com/105503216/200733262-d59a32bb-cf0d-4038-9f0a-c421ebfc8fed.png">  
+
 
 ### 1.2.2 explore from public dataset
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/105503216/197320219-1af863d3-3915-4a4c-beff-1876760dee2a.png">
