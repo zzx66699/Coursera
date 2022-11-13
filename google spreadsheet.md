@@ -53,9 +53,14 @@ click again to cancel the filter
 ### 1.12 delete the format
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/105503216/198542189-684bdadf-0887-45ad-9ae2-07abda09541f.png">
 
-## 1.13 plotting 
+### 1.13 plotting 
 insert - chart   
 <img width="568" alt="image" src="https://user-images.githubusercontent.com/105503216/199387614-8529ff98-9a6d-4192-b644-321c45ae2adb.png">  
+
+### 1.14 PIVOT TABLE
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/105503216/201504346-a68843c8-ae35-4a40-848c-fa0acb698af8.png">
+<img width="1119" alt="image" src="https://user-images.githubusercontent.com/105503216/201504422-4d36be8f-b80f-4bdc-b812-228f2be3edfe.png">
+
 
 ## 02 Formulas 公式
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/196190243-0b9945b5-d26d-4a56-8483-6b081c916b9b.png">   
@@ -70,6 +75,12 @@ insert - chart
 parentheses 括号  
 colon 冒号 a colon between the cell references shows that you are using a range  
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/105503216/196323313-2ed5ac2c-df8e-487f-8f6e-e5b843e0ecd7.png"> 
+
+### 3.1 COUNT/COUNTA
+COUNTA: count the total number of values within a specific range  
+<img width="229" alt="image" src="https://user-images.githubusercontent.com/105503216/201504573-4c658910-ce64-4694-86e6-8ba5b0d72794.png">  
+
+COUNT: only count numerical values within a specific range  
 
 
 
@@ -146,3 +157,8 @@ fix extra spaces
 quickly counts how many items in a range of cells meet a given criterion  
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/105503216/196191178-8042e151-9c08-4946-89f6-479efbb713d9.png">
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/198881312-9b762541-bd8e-40ea-97cf-3871479e9ebe.png">
+
+## 6. documentation
+<img width="692" alt="Screenshot 2022-11-13 at 12 11 36 PM" src="https://user-images.githubusercontent.com/105503216/201505312-926e1e6f-5ca9-474a-b141-534fb5d0dfa6.png"><img width="473" alt="image" src="https://user-images.githubusercontent.com/105503216/201505339-68d9c656-1146-4337-b6fe-ab47ab491d15.png">
+
+
