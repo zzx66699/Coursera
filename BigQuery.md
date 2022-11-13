@@ -52,4 +52,6 @@ when your string has quotes inside it then use double quotes
 ### 2.4 indentation
 <img width="794" alt="image" src="https://user-images.githubusercontent.com/105503216/197322161-9389c955-f3d7-469f-9ae9-432458838d4a.png">
 
+## 03 personal history
+<img width="1028" alt="image" src="https://user-images.githubusercontent.com/105503216/201505412-6c8f9f4e-90b8-4248-9c10-1e384d5f7506.png">
 
