@@ -57,14 +57,22 @@ margin of error
 
 ## 4. data cleaning
 <img width="823" alt="Screenshot 2022-10-25 at 5 18 38 PM" src="https://user-images.githubusercontent.com/105503216/197735847-3785ec6c-451d-4266-9944-aaa64b5fcb09.png">
-<img width="870" alt="image" src="https://user-images.githubusercontent.com/105503216/197741129-575c4751-4816-4516-a668-b236ccf6042f.png">
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/105503216/197741129-575c4751-4816-4516-a668-b236ccf6042f.png">  
 
-### 4.1 first step: have a backup of orginal dataset
+first step: have a backup of orginal dataset    
+remove duplicate or inrevalant data    
+remove extra space or blank in your data    
+fix misspelling    
+inconsistent datatype or capitalization & incorrect punctuation and other types     
+remove formatting    
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/105503216/201504852-9765cf33-e30a-4c13-94be-c9dffa7bf869.png">
 
-### 4.2 remove duplicate or inrevalant data 
+## 5. documentation
+the process of tracking change, additions, deletions and errors in your data-cleaning effort  
+two benefits of documentation:    
+1) recalling the errors that were cleaned   
+2) informing others of the changes   
 
-### 4.3 remove extra space or blank in your data
+EXAMPLE of a changelog   
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/105503216/201505477-d3b276f5-979f-4fdb-8352-94e99f546e5b.png">  
 
-### 4.4 fix misspelling & inconsistent capitalization & incorrect punctuation and other types
-
-### 4.5 remove formatting 
