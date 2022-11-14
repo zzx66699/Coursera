@@ -76,3 +76,7 @@ two benefits of documentation:
 EXAMPLE of a changelog   
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/105503216/201505477-d3b276f5-979f-4fdb-8352-94e99f546e5b.png">  
 
+## 6. common data errors
+human error in data entry (mispelling, mistyping)  
+flawed processes (poor design of survey form)  
+system issues (older system integrate data incorrectly)  
