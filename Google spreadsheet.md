@@ -99,6 +99,9 @@ VLOOKUP(data to look up, 'where to look up'!range, return column, false)
 the return column should be a number, instead of a range  
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/105503216/199386870-161e3450-e7be-4dc7-be4c-2471b7476c5e.png">  
 
+### 3.6 SORT
+= SORT(xx:xx, column number, TRUE/FALSE)  
+<img width="1268" alt="image" src="https://user-images.githubusercontent.com/105503216/202197185-e4346192-121b-4de4-94a2-20cbd8cb781d.png">
 
 ## 04 sreadsheet errors and fix
 ### 4.1 Spotting errors in spreadsheets with conditional formatting
