@@ -264,3 +264,16 @@ when adding data into the table using formula, go back and paste the data in as 
 
 ### 7.7 To currency
 <img width="994" alt="image" src="https://user-images.githubusercontent.com/105503216/202594204-2a7deaa4-58df-4230-9df4-4960cda0ad8d.png">
+
+## 8. Data Validation
+### 8.1 Add custom dropdown lists with predetermined options
+Data > Data Validation  
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/105503216/202618347-78f25d12-35ad-4a82-93fd-c1ded33fb522.png"><img width="222" alt="image" src="https://user-images.githubusercontent.com/105503216/202618375-46347559-dffa-4f74-85eb-4cfc8a2086a5.png">
+
+### 8.2 Create custom checkbox
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105503216/202618796-d05402d7-e295-49f4-9ed7-ccb862341872.png"><img width="500" alt="image" src="https://user-images.githubusercontent.com/105503216/202618823-366b723d-41e8-4194-a598-a5acd81eaa28.png">
+
+### 8.3 Protect structured data and formulus 
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/105503216/202619102-4a9e6068-c751-4dd2-84cf-970f2d59a14d.png">
+
+#### 7.1.3 QUERY function for Google Sheets to format dates
