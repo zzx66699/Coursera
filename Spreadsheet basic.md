@@ -59,9 +59,6 @@ click again to cancel the filter
 insert - chart   
 <img width="568" alt="image" src="https://user-images.githubusercontent.com/105503216/199387614-8529ff98-9a6d-4192-b644-321c45ae2adb.png">  
 
-### 1.14 PIVOT TABLE
-<img width="439" alt="image" src="https://user-images.githubusercontent.com/105503216/201504346-a68843c8-ae35-4a40-848c-fa0acb698af8.png">
-<img width="1119" alt="image" src="https://user-images.githubusercontent.com/105503216/201504422-4d36be8f-b80f-4bdc-b812-228f2be3edfe.png">
 
 
 ## 02 Formulas 公式
@@ -118,17 +115,7 @@ You can also combine three or more columns
 =CONCATENATE(C2," ",D2,", ",E2)
 ```
 
-## 04 sreadsheet errors and fix
-### 4.1 Spotting errors in spreadsheets with conditional formatting
-<img width="825" alt="image" src="https://user-images.githubusercontent.com/105503216/196197356-58567a45-f34c-48a2-9a4e-f52f6800b81c.png">
-
-<img width="666" alt="image" src="https://user-images.githubusercontent.com/105503216/196197285-f23e5573-596c-4144-83eb-eff9fc56e76c.png">
-<img width="370" alt="image" src="https://user-images.githubusercontent.com/105503216/196198038-31db57b7-692b-4861-871d-4f38a614f1f4.png"> <img width="344" alt="image" src="https://user-images.githubusercontent.com/105503216/196197961-ab8846aa-b82f-4cbd-9a47-0b5e63ad06ae.png">
-
 ## 05 data cleaning
-### 5.1 conditional formatting to find blank
-format - conditional formatting 条件格式  
-<img width="390" alt="image" src="https://user-images.githubusercontent.com/105503216/198544326-d660f3eb-71a4-48cf-90bd-5be9875e96a0.png">  
 
 ### 5.2 remove duplicate
 data - data clean - remove duplicate   
