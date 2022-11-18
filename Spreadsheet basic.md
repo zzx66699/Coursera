@@ -276,4 +276,3 @@ Data > Data Validation
 ### 8.3 Protect structured data and formulus 
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/105503216/202619102-4a9e6068-c751-4dd2-84cf-970f2d59a14d.png">
 
-#### 7.1.3 QUERY function for Google Sheets to format dates
