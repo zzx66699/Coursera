@@ -1,4 +1,6 @@
 # Google Spreadsheet
+Remember to add "" instead of '' 
+
 ## 01 Spreadsheet basic 
 ### 1.1 add / delete columns 
 click any cell within the column / select the whole column  
@@ -99,6 +101,22 @@ the return column should be a number, instead of a range
 = SORT(xx:xx, column number, TRUE/FALSE)  
 <img width="1268" alt="image" src="https://user-images.githubusercontent.com/105503216/202197185-e4346192-121b-4de4-94a2-20cbd8cb781d.png">
 
+### 3.7 CONCATENATE 连接
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/105503216/198883215-5826ffe9-754e-4b65-a6e8-f621da7f20db.png">  
+
+You can also add a space/xxx between two variables     
+
+``` 
+=CONCATENATE(A1," ", B1)
+```
+
+<img width="1184" alt="image" src="https://user-images.githubusercontent.com/105503216/199388967-b08bc205-0263-4870-bf92-39716f8f1866.png">    
+
+You can also combine three or more columns  
+
+```
+=CONCATENATE(C2," ",D2,", ",E2)
+```
 
 ## 04 sreadsheet errors and fix
 ### 4.1 Spotting errors in spreadsheets with conditional formatting
@@ -140,12 +158,6 @@ LEFT/RIGHT(range, number of characters)
 MID(range, reference starting point, number of middle characters)  
 <img width="232" alt="image" src="https://user-images.githubusercontent.com/105503216/198881839-bc6b3360-f665-428d-820f-2111a116a95e.png">  
 
-### 5.7 CONCATENATE
-<img width="1001" alt="image" src="https://user-images.githubusercontent.com/105503216/198883215-5826ffe9-754e-4b65-a6e8-f621da7f20db.png">  
-You can also add a space/xxx between two variables     
-
-remember to add "" instead of ''!!!    
-<img width="1184" alt="image" src="https://user-images.githubusercontent.com/105503216/199388967-b08bc205-0263-4870-bf92-39716f8f1866.png">  
 
 ### 5.8 TRIM
 fix extra spaces   
