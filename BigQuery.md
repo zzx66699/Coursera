@@ -37,6 +37,7 @@ This can deal with files with headings
 ## 02 query
 ### 2.1 FROM 
 <img width="262" alt="Screenshot 2022-10-22 at 12 26 02 PM" src="https://user-images.githubusercontent.com/105503216/197319062-214e29f2-7dbb-4c27-bd59-a119f3616bcd.png">
+<img width="655" alt="image" src="https://user-images.githubusercontent.com/105503216/202638585-695bb9d4-fa9d-45d3-8f4b-3ee9f23a6814.png">
 
 ### 2.2 some rules
 use single quotes for strings  
