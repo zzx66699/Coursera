@@ -175,7 +175,6 @@ Format > Number > Custom date and time
 #### 7.1.3 QUERY function for Google Sheets to format dates
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/105503216/202601923-52469e08-5cd5-4bae-94fc-0ae8a1ffacb4.png"><img width="500" alt="image" src="https://user-images.githubusercontent.com/105503216/202602417-28ed1876-336b-4fab-be14-f878257b8916.png">
 
-
 ### 7.2 Date to number
 #### 7.2.1 Convert date to number by changing the format
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/105503216/202602975-6b73213a-85f4-49b9-aac8-64729d308b34.png">
@@ -188,21 +187,31 @@ Format > Number > Custom date and time
 
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/105503216/202603181-f1ffb886-ddad-410a-bf86-7a5e72f7dbb8.png">
 
-### 7.3 String to numbers
+### 7.3 Date/number to string/text
+
+```
+=TEXT(number,format)
+```
+
+change number to text:  =TEXT(B2,"mmmm")
+<img width="928" alt="image" src="https://user-images.githubusercontent.com/105503216/196333559-05ce8ece-7911-4c86-a04c-a6f78fe669f1.png">
+<img width="673" alt="image" src="https://user-images.githubusercontent.com/105503216/202603710-bb161364-5162-4cf2-878a-164591cbd3d4.png">
+
+### 7.4 String to numbers
 
 ``` 
 = VALUE("string")
 ```
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/202604018-df3a15c6-0f70-4db4-8888-a62b97e305c2.png">
 
-#### 7.3.1 Replace Dots with Comma to Convert Text to Numbers
+#### 7.4.1 Replace Dots with Comma to Convert Text to Numbers
 
 ```
 =REGEXREPLACE(A2, "[.]", ",")
 ```
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/105503216/202604138-2abc1de0-8231-4d1e-8a9c-b895386fecc3.png">
 
-#### 7.3.2 Converting Data with Currency Text to Number
+#### 7.4.2 Converting Data with Currency Text to Number
 
 ``` 
 =TO_PURE_NUMBER(A2)
@@ -210,7 +219,7 @@ Format > Number > Custom date and time
 
 <img width="489" alt="image" src="https://user-images.githubusercontent.com/105503216/202605143-e5fc5d54-dead-46b2-a064-589596cbeb65.png">
 
-#### 7.3.3 Extracting Numbers From Text
+#### 7.4.3 Extracting Numbers From Text
 
 ``` 
 SPLIT(J11,CONCATENATE(SPLIT(J11,".0123456789")))
@@ -225,22 +234,12 @@ SPLIT(J11,CONCATENATE(SPLIT(J11,".0123456789")))
 <img width="1115" alt="image" src="https://user-images.githubusercontent.com/105503216/202607377-5c3e6d3f-40f5-4fbb-9f6e-da7de41d56b0.png">
 
 
-### 7.4 Numbers to percentage
+### 7.5 Numbers to percentage
 ```
 TO_PERCENT(A1)
 ```
 
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/105503216/202596442-22a882f0-a805-4c8b-9afc-96333ad816e8.png">
-
-### 7.5 To string/text
-
-```
-=TEXT(number,format)
-```
-
-change number to text:  =TEXT(B2,"mmmm")
-<img width="928" alt="image" src="https://user-images.githubusercontent.com/105503216/196333559-05ce8ece-7911-4c86-a04c-a6f78fe669f1.png">
-<img width="673" alt="image" src="https://user-images.githubusercontent.com/105503216/202603710-bb161364-5162-4cf2-878a-164591cbd3d4.png">
 
 ### 7.6 CONVERT to another unit
 #### 7.6.1 Celsius & Fahrenheit
