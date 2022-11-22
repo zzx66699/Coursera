@@ -31,6 +31,7 @@ Scatterplots show relationships between different variables. Scatterplots are ty
 ### 2.3 Heatmap 
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/105503216/203233765-6f09b7ef-f8c5-4551-b677-9f4e44104ccd.png">
 
+### 2.4 treemap
 ## 3. Line chart
 A line chart is used to track changes over short and long periods of time.  
 ### 3.1 Time Series charts
@@ -39,10 +40,13 @@ A line chart is used to track changes over short and long periods of time.
 Column charts use size to contrast and compare two or more values, using height or lengths to represent the specific values.   
 ### 4.1 Ranked bar charts
 
+### 4.2 stacked bar charts
+
+## 5. Combo chart
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/105503216/203337229-23c569b6-34fc-405b-a16b-b69e72d8487b.png">
 
 ## 6. Pie chart
 The pie chart is a circular graph that is divided into segments representing proportions corresponding to the quantity it represents, especially when dealing with parts of a whole.  
-
 
 ## 7. Distribution graph
 A distribution graph displays the spread of various outcomes in a dataset.   
@@ -51,4 +55,22 @@ A distribution graph displays the spread of various outcomes in a dataset.
 ### 7.1 Histograms
 <img width="805" alt="image" src="https://user-images.githubusercontent.com/105503216/203234263-d4f10c56-06f2-4031-b795-6f6488aef590.png">
 
+
+## 8. Elements of arts
+### 8.1 Line
+
+### 8.2 Shape
+Shapes and visualizations should always be two-dimensional  
+
+### 8.3 Color
+The hue of a color is basically its name, red, green, blue and so on.  
+Intensity is how bright or dull a color is  
+The value is how light or dark the colors are in a visualization.   
+Dark values with some black added are called shades of color  
+Light values with white added are called tints  
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/105503216/203338307-87128298-c063-4105-ae3f-0c704bcc4745.png">
+
+### 8.4 Space
+
+### 8.5 Movement
 
