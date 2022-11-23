@@ -58,6 +58,7 @@ A distribution graph displays the spread of various outcomes in a dataset.
 
 ## 8. Elements of arts
 ### 8.1 Line
+add visual form to your data and help build the structure for your visualization.
 
 ### 8.2 Shape
 Shapes and visualizations should always be two-dimensional  
@@ -79,5 +80,22 @@ Light values with white added are called tints
 think about the emotions and needs of the target audience of your data viz, whether it's stakeholders, team members or the general public  
 
 ### 9.2 Define
-### 9.3 
+Figuring out exactly what your audience needs from the data
 
+### 9.3 Ideate
+Generating ideas for data visualization
+
+### 9.4 Prototype
+Putting visualizations together for testing and feedback
+
+### 9.5 Test
+Showing prototype visualizations to people before stakeholders see them
+
+## 10. Considerations of visualization
+headline  
+subtitle  
+label  
+legend  
+annotation 注释  
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/105503216/203581736-ec7633a0-2f60-4bae-98eb-4c76adfe2e94.png">
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/105503216/203585399-40dc0906-8291-4084-a6de-7370dd915d5f.png">
