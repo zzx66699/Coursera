@@ -74,3 +74,10 @@ Light values with white added are called tints
 
 ### 8.5 Movement
 
+## 9. 5 phases of the design process
+### 9.1 Emphasize 
+think about the emotions and needs of the target audience of your data viz, whether it's stakeholders, team members or the general public  
+
+### 9.2 Define
+### 9.3 
+
