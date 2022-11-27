@@ -32,9 +32,15 @@ Scatterplots show relationships between different variables. Scatterplots are ty
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/105503216/203233765-6f09b7ef-f8c5-4551-b677-9f4e44104ccd.png">
 
 ### 2.4 treemap
+
 ## 3. Line chart
 A line chart is used to track changes over short and long periods of time.  
 ### 3.1 Time Series charts
+
+### 3.2 Area 
+area charts allow you to track changes in value across multiple categories of data.  
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/105503216/204140178-f3139fc2-cd31-4ee4-8786-cd8965f9f0b8.png">
+
 
 ## 4. Column chart 
 Column charts use size to contrast and compare two or more values, using height or lengths to represent the specific values.   
