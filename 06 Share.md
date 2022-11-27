@@ -53,6 +53,7 @@ A distribution graph displays the spread of various outcomes in a dataset.
 <img width="829" alt="image" src="https://user-images.githubusercontent.com/105503216/203234060-e693f474-d1ff-412b-939f-1490abe7225c.png">
 
 ### 7.1 Histograms
+illustrate How often data values fall into certain ranges  
 <img width="805" alt="image" src="https://user-images.githubusercontent.com/105503216/203234263-d4f10c56-06f2-4031-b795-6f6488aef590.png">
 
 
@@ -75,7 +76,8 @@ Light values with white added are called tints
 
 ### 8.5 Movement
 
-## 9. 5 phases of the design process
+## 9. 5 phases of the design thinking process
+A data analyst makes sure that they approach problems in a user-centric way
 ### 9.1 Emphasize 
 think about the emotions and needs of the target audience of your data viz, whether it's stakeholders, team members or the general public  
 
@@ -99,3 +101,8 @@ legend
 annotation 注释  
 <img width="859" alt="image" src="https://user-images.githubusercontent.com/105503216/203581736-ec7633a0-2f60-4bae-98eb-4c76adfe2e94.png">
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/105503216/203585399-40dc0906-8291-4084-a6de-7370dd915d5f.png">
+
+## 11. key elements of effective visualizations 
+sophisticated use of contrast 对比度的复杂使用  
+refined execution 精细化执行  
+clear meaning  
