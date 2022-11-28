@@ -35,12 +35,15 @@ Scatterplots show relationships between different variables. Scatterplots are ty
 
 ## 3. Line chart
 A line chart is used to track changes over short and long periods of time.  
-### 3.1 Time Series charts
+
+### 3.1 Horizontal bar charts
+If the values being compared are vastly different, a column chart might be too tall. You can use a horizontal bar chart instead.  
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/105503216/204287778-b68fc9fd-f0ec-4fc7-9529-79c3b2a6c976.png">
 
 ### 3.2 Area 
-area charts allow you to track changes in value across multiple categories of data.  
-<img width="352" alt="image" src="https://user-images.githubusercontent.com/105503216/204140178-f3139fc2-cd31-4ee4-8786-cd8965f9f0b8.png">
-
+area charts allow you to track changes in value across multiple categories of data.   
+Individual data points for a changing variable are connected with a continuous line and the area under the line is filled in  
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/105503216/204288061-74008318-3a92-439f-bf56-c03aa75042a3.png">
 
 ## 4. Column chart 
 Column charts use size to contrast and compare two or more values, using height or lengths to represent the specific values.   
@@ -53,6 +56,12 @@ Column charts use size to contrast and compare two or more values, using height 
 
 ## 6. Pie chart
 The pie chart is a circular graph that is divided into segments representing proportions corresponding to the quantity it represents, especially when dealing with parts of a whole.  
+
+### 6.1 Donut charts
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/105503216/204288293-f949e0f9-0b5b-4124-b9b1-2f99f70b5f2e.png">
+
+### 6.2 Gauge chart 仪表图
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/105503216/204288482-4e10cd8c-e513-47a3-8d32-e82afc44483f.png">
 
 ## 7. Distribution graph
 A distribution graph displays the spread of various outcomes in a dataset.   
@@ -112,3 +121,6 @@ annotation 注释
 sophisticated use of contrast 对比度的复杂使用  
 refined execution 精细化执行  
 clear meaning  
+
+## 12. diverging palette 调色板
+A diverging palette displays two ranges of values using color intensity to indicate magnitude.  
