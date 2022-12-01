@@ -124,3 +124,32 @@ clear meaning
 
 ## 12. diverging palette 调色板
 A diverging palette displays two ranges of values using color intensity to indicate magnitude.  
+
+## 13. 5 tip of compelling presentation
+### 13.1 characters
+The characters are the people affected by your story.   
+This could be your stakeholders, customers, clients, and others.   
+When adding information about your characters to your story, you have a great opportunity to include a personal account and bring more human context to the facts that the data has revealed—think about why they care.   
+
+### 13.2 setting
+describes what's going on, how often it's happening, what tasks are involved, and other background information about the data project that describes the current situation.  
+
+### 13.3 plot
+The plot, sometimes called the conflict, is what creates tension in the current situation. This could be a challenge from a competitor, an inefficient process that needs to be fixed, or a new opportunity that the company just can't pass up. This complication of the current situation should reveal the problem your analysis is solving and compel the characters to act. 
+
+### 13.4 big reveal
+resolution, is how the data has shown that you can solve the problem the characters are facing by becoming more competitive, improving a process, inventing a new system, or whatever the ultimate goal of your data project may be. 
+
+### 13.5 aha moment
+is when you share your recommendations and explain why you think they'll help your company be successful.
+
+## 14. Difference between copy&paste, link and embed
+### 14.1 copy&paste
+When you copy and paste a visual into your presentation, you can edit it directly within your slideshow. If your visual or its data points exist in other places, such as a Tableau dashboard, any changes you make will not affect them there.  
+
+### 14.2 link
+your visuals will be updated if the original dataset changes  
+the visual lives within its original file, and the slideshow connects to it with the visual's URL. Because the two files are now linked, when you make changes to the original file, say a spreadsheet, the changes will automatically appear in your presentation  
+
+### 14.3 embed
+an embedded object also lives in the original source file, but the difference is that it doesn't get automatically updated if the source file changes. The embedded copy is completely independent. Similarly, you can make changes to it in your presentation without affecting the visual or data points from the original source file.
