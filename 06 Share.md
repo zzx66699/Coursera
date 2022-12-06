@@ -156,7 +156,6 @@ an embedded object also lives in the original source file, but the difference is
 
 ## 15. Example of slice
 <img width="601" alt="image" src="https://user-images.githubusercontent.com/105503216/205896729-e24b39c9-f806-41cc-8d76-cceac58d9bb9.png">
-<img width="965" alt="image" src="https://user-images.githubusercontent.com/105503216/205896854-de703d14-54bf-41fa-b407-02487f3ac8f0.png">
 <img width="965" alt="image" src="https://user-images.githubusercontent.com/105503216/205897161-d0ef616f-0709-4ac3-983b-b20234289a75.png">
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/105503216/205897220-8bfbe26e-5139-4589-a1b8-22283670aa1a.png">
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/105503216/205897659-8083d7f1-6edc-4a91-8235-aa24a7b6123d.png">
