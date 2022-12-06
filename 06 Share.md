@@ -153,3 +153,35 @@ the visual lives within its original file, and the slideshow connects to it with
 
 ### 14.3 embed
 an embedded object also lives in the original source file, but the difference is that it doesn't get automatically updated if the source file changes. The embedded copy is completely independent. Similarly, you can make changes to it in your presentation without affecting the visual or data points from the original source file.
+
+## 15. Example of slice
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/105503216/205896729-e24b39c9-f806-41cc-8d76-cceac58d9bb9.png">
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/105503216/205896854-de703d14-54bf-41fa-b407-02487f3ac8f0.png">
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/105503216/205897161-d0ef616f-0709-4ac3-983b-b20234289a75.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/105503216/205897220-8bfbe26e-5139-4589-a1b8-22283670aa1a.png">
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/105503216/205897659-8083d7f1-6edc-4a91-8235-aa24a7b6123d.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/105503216/205897936-4ec21334-9145-4d17-9f69-74acdb6b6061.png">
+
+
+## 16. MacCandless Method
+1. Introduce the graphic by name  
+2. answer obvious questions before they are asked  
+3. state the insight of your graphic  
+4. call out data to support that insight  
+5. tell your audience why it matters  
+
+## 17. Tips of presenting 
+Include a title, subtitle, and date  
+Use a logical sequence of slides  
+Provide an agenda with a timeline  
+Limit the amount of text on slides. Your audience should be able to scan each block of text on your slides within 5 seconds  
+Start with the business task. Focus on the business task and frame the information in the context of the business task.  
+Establish the initial hypothesis  
+Show what business metrics you used  
+Use visualizations  
+Introduce the graphic by name  
+Provide a title for each graph  
+Go from the general to the specific  
+Use speaker notes to help you remember talking points  
+Include key takeaways  
+
