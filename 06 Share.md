@@ -161,6 +161,26 @@ an embedded object also lives in the original source file, but the difference is
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/105503216/205897659-8083d7f1-6edc-4a91-8235-aa24a7b6123d.png">
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/105503216/205897936-4ec21334-9145-4d17-9f69-74acdb6b6061.png">
 
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/105503216/205908429-3f025d48-768a-4f6a-a174-b3522e43e7f2.png">
+<img width="861" alt="image" src="https://user-images.githubusercontent.com/105503216/205908334-25c7b15c-33df-4996-9106-37bbe78495ba.png">
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/105503216/205908808-cd4f7a33-bdb9-43e2-b713-5389c8b506bf.png">
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/105503216/205908855-3c889cae-fd37-4450-9dab-7b411905ced3.png">
+<img width="928" alt="image" src="https://user-images.githubusercontent.com/105503216/205908966-79c00895-822a-40ba-8964-902642bc2560.png">  
+I would start by getting to this slide and explaining the process and data that we're looking at. So, we analyzed the data set, consisting of data collected from residents of European countries between 2015 and 2017. The data contained demographic and economic data for individuals within each country, including population, GDP, or Gross Domestic Product, and the happiness score per person.  
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/105503216/205909871-9abd4d88-c931-4e7e-84c1-df169aa8c6d4.png">  
+we began by creating a heat map of the happiness score for each country. Where the number within each country represents the overall score and the colors represent how high or how low the score is on a scale. So, the darker blue the country is, the higher the numeric happiness score for that country. The deeper red that the country is, the lower the happiness score and overall numeric value.   
+<img width="725" alt="image" src="https://user-images.githubusercontent.com/105503216/205910910-3214236c-faeb-4c36-bbac-a0a5825004e3.png">   
+The higher up something is on the scatterplot, the happier the country is.
+The further to the right that the country is plotted, the larger the population.  
+the transition is very important to the next slide. So, you can say something like: "So next, we dove into the specific demographics of each country to see if we can identify the features that separate or correlate with the overall happiness of the country.  
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/105503216/205911935-1f4cb976-b791-484d-a522-04d2e9571d23.png">   
+Now we found this because the correlation coefficient between the two different factors being happiness and health was 0.50. Now, you just introduced a new concept.   
+"A correlation coefficient is a measure of strength and direction of the linear relationship between two variables. So in other words, the closer to one that the number is, the more positively correlated they are. Meaning, when one of the variables goes up, so does the other one. The closer to negative one that the number is, the more negatively correlated they are. Meaning, as one of the variables, such as happiness, goes up that the other variable like health would go down. And the closer to zero it is, it means they are not correlated at all, which is what we saw between population and happiness, and means that they have no relationship together.  
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/105503216/205913011-88348e0e-8062-4a1d-87a8-002277546997.png">  
+<img width="830" alt="image" src="https://user-images.githubusercontent.com/105503216/205913095-7a99ef27-bed3-4bbd-96f7-98390b049df1.png">
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/105503216/205913342-a1d22839-2a97-4ab5-a6c1-8ada78890185.png">
+
+
 
 ## 16. MacCandless Method
 1. Introduce the graphic by name  
