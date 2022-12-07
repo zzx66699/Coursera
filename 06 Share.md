@@ -204,3 +204,20 @@ Go from the general to the specific
 Use speaker notes to help you remember talking points  
 Include key takeaways  
 
+## 18. tips for graphics
+wait 5 seconds after showing a data visualization   
+ask if they understand  
+give your audience another 5 seconds  
+tell them your conclusion  
+
+## 19. slide deck layout
+1. Agenda   
+2. Purpose  
+Service center consolidation is an important cost savings initiative. The aim of this project was to determine the impact of service center consolidation on customer response times.   
+3. Data/analysis   
+4. Recommendations  
+5. Call to action  
+
+## 20. Checklist
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/105503216/206184481-f849d818-1164-4f9e-9d45-259da80e1ff5.png">
+
