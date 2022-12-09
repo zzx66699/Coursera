@@ -221,3 +221,17 @@ Service center consolidation is an important cost savings initiative. The aim of
 ## 20. Checklist
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/105503216/206184481-f849d818-1164-4f9e-9d45-259da80e1ff5.png">
 
+## 21. deal with objection  
+### 21.1. about the data
+where you got the data   
+which system it comes from   
+what transforms happen to it  
+how fresh and accurate the data is  
+
+### 21.2 about the analysis   
+is your analysis reproduceable  
+who did you get feedback from  
+
+### 21.3 about your findings
+do these finding exsit in previous time periods  
+di you control for the difference in your data  
