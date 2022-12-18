@@ -179,6 +179,7 @@ Now we found this because the correlation coefficient between the two different 
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/105503216/205913011-88348e0e-8062-4a1d-87a8-002277546997.png">  
 <img width="830" alt="image" src="https://user-images.githubusercontent.com/105503216/205913095-7a99ef27-bed3-4bbd-96f7-98390b049df1.png">
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/105503216/205913342-a1d22839-2a97-4ab5-a6c1-8ada78890185.png">
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/105503216/208285265-ebad45a0-cabf-463a-9009-4c44f0ef10fe.png">
 
 
 
@@ -221,17 +222,34 @@ Service center consolidation is an important cost savings initiative. The aim of
 ## 20. Checklist
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/105503216/206184481-f849d818-1164-4f9e-9d45-259da80e1ff5.png">
 
-## 21. deal with objection  
-### 21.1. about the data
+## 21. 3 data storytelling steps 
+### 21.1 engage your audience  
+What role does this audience play?   
+What is their stake in the project?   
+What do they hope to get from the data insights I deliver?   
+
+### 22.2 primary message
+clear and direct  
+
+### 22.3 eliminate less important  
+Spotlighting  
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/105503216/208286590-5cb0f915-d984-4830-9eaf-c2361bf030c6.png">  
+lots of data analysts like to use sticky notes on a whiteboard  
+you write each insight from your analysis on a piece of paper, spread them out, and display them on a whiteboard.   
+Then you examine it. It's important not to get bogged down in every tiny detail. Instead, look for broad universal ideas and messages. Try to find ideas or concepts that keep popping up again and again or numbers and words that are repeated often.  
+
+
+## 22. deal with objection  
+### 22.1. about the data
 where you got the data   
 which system it comes from   
 what transforms happen to it  
 how fresh and accurate the data is  
 
-### 21.2 about the analysis   
+### 22.2 about the analysis   
 is your analysis reproduceable  
 who did you get feedback from  
 
-### 21.3 about your findings
+### 22.3 about your findings
 do these finding exsit in previous time periods  
 di you control for the difference in your data  
