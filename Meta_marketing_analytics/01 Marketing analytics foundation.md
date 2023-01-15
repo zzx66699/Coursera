@@ -13,6 +13,9 @@ measuring and analyzing data to inform, evaluate, and improve the performance of
 - planning and forecasting
 - evaluating marketing effectiveness
 - marketing optimization
+  - adjust your marketing mix
+  - optimize within a channel
+  - use testing to optimize 
 - optimize the sales funnel (reduce the number of people drop out)
   - awareness  
   - interest 
