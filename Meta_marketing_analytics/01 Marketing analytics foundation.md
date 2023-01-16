@@ -51,3 +51,9 @@ Offline data can also be tracked through point of sale information, when your cu
 know their competitors information, user demographic data
 - social listening tool 
 know people outside their audience think about their brands
+
+## 4. Online interaction generate data
+- Every publisher website starts with a blank canvas made of code and stored on a web server.  
+- To fill this canvas, the publisher uses a tool called content management system, CMS. It enables publisher to store, create, and manage content on their websites.
+- The publisher will leave some space on the website for advertising. Ads server will place the ads.
+- When person's browser requests a web page from the publisher, some data about a person is sent to the publisher. That information is used to bring the right content to the person, but it's also sent to the Ad server to make sure a relevant Ad is displayed. 
