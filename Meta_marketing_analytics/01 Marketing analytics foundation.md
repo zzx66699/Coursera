@@ -108,8 +108,11 @@ The marketing takes place using one system, like advertising using Google for in
 
 ### 5.6 UID(Unique user id)
 It is a unique text or number string that identifies a person and it is created when the user logs in.   
+
 The UID makes it possible for publishers to link behavior from a person on different browsers and on apps so that it's possible to get a clearer and more complete picture of the users across platforms. 
 
 ### 5.7 Device ID
-In both iOS and android, an ID is stored in the settings of the device and that ID can be accessed by advertisers if the user allows it. When users interact with advertising in an app and they have opted in to share their device ID with advertisers, it makes it possible for the advertisers to advertise to you across different apps. That way, they can show ads and track behavior on one app, like Instagram for instance, and then use that information to advertise to you while you're using a different app.   
+- In both iOS and android, an ID is stored in the settings of the device and that ID can be accessed by advertisers if the user allows it.   
+- When users interact with advertising in an app and they have opted in to share their device ID with advertisers, it makes it possible for the advertisers to advertise to you across different apps. 
+- they can show ads and track behavior on one app, like Instagram for instance, and then use that information to advertise to you while you're using a different app.   
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/105503216/212923069-e57942d0-e4d9-4671-95be-e3b46d0117ac.png">
