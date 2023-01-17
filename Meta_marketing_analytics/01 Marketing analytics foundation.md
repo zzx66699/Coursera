@@ -58,7 +58,8 @@ know people outside their audience think about their brands
 - The publisher will leave some space on the website for advertising. Ads server will place the ads.
 - When person's browser requests a web page from the publisher, some data about a person is sent to the publisher. That information is used to bring the right content to the person, but it's also sent to the Ad server to make sure a relevant Ad is displayed. 
 
-## 5. Web server log
+## 5. Source of digital data
+### 5.1 Web server log
 A server record of a person and a website or app  
 - user's ip address
 - a unique identifier  
@@ -70,19 +71,45 @@ A server record of a person and a website or app
 - size of content  
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/105503216/212895125-66e7923c-9164-468e-8996-41f4d85aa46d.png">
 
-## 6. Cookie
+### 5.2 Cookie
  A formatted piece of text that gets stored in a person's browser.    
 Web and ad servers can store some information about your interaction in a special storage area in your browser. When you interact with content from the same publisher or advertiser later, the publisher can call up the information it's stored in your browser to help it remember a few things about you and your previous interactions.  
 
-### 6.1 First-party cookie
+- First-party cookie  
 text files stored in your browser by the sites that you're actually visiting. 
 
-### 6.2 Third-party cookie
+- Third-party cookie  
 text files stored in your browser by a third party with whom you don't have a direct relationship.    
 there may be an advertiser who stores some information in your browser while you visit a news site.   
 The advertisers can do that because it has an ad showing on the news site you are visiting
 
-### 6.3 Cookie related problems
+#### 5.2.1 Cookie related problems
 - People use multiple devices and browers
 - can be erased or blocked
 - can't work on mobile apps
+
+### 5.3 Tags/pixel
+Small piece of code that instructs website to send information to a third party(google analytics).   
+The code is added by the publisher.  
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/105503216/212913164-389d43ea-c187-437b-8bd2-c3f5e942d335.png">
+
+### 5.4 SDK(software developer kit) for mobile apps
+The toolbox contains code developers can install to help create applications. In some ways, you can think of it as a library of ready-made code that makes the life of the developer easier.  
+- apps on your phone where you were asked to log in with your Google or Facebook account  
+- Instead of manually programming a way for you to log in, developers would use the Facebook SDK, which has code they can implement in their app to let you log in with your Facebook credentials.  
+- By having your users log in with their Facebook ID using the SDK, some data is sent back to Facebook. This makes it possible for you to see things like whether people who saw an ad on Facebook for your gaming app, download your app. And, you could even see whether these people are more likely to make in-app purchases, like purchasing extra powers inside your game, for instance.  
+
+<img width="864" alt="image" src="https://user-images.githubusercontent.com/105503216/212917267-86afcefc-9dc6-4ac3-9ed7-cc3379f0ae44.png">
+
+### 5.5 API(application programming interface) 
+a tool that establishes a connection between two pieces of software.   
+
+The marketing takes place using one system, like advertising using Google for instance. But behavior we want to influence takes place on other, a purchase on a website, an app download, a purchase in a store, and so on. Many of the systems we talked about so far will help marketers to make connections. But these systems often have dependencies that are a bit out of our control, like blocking the cookie or erasing the records. 
+
+### 5.6 UID(Unique user id)
+It is a unique text or number string that identifies a person and it is created when the user logs in.   
+The UID makes it possible for publishers to link behavior from a person on different browsers and on apps so that it's possible to get a clearer and more complete picture of the users across platforms. 
+
+### 5.7 Device ID
+In both iOS and android, an ID is stored in the settings of the device and that ID can be accessed by advertisers if the user allows it. When users interact with advertising in an app and they have opted in to share their device ID with advertisers, it makes it possible for the advertisers to advertise to you across different apps. That way, they can show ads and track behavior on one app, like Instagram for instance, and then use that information to advertise to you while you're using a different app.   
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/105503216/212923069-e57942d0-e4d9-4671-95be-e3b46d0117ac.png">
