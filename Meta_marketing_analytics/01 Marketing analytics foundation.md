@@ -57,3 +57,32 @@ know people outside their audience think about their brands
 - To fill this canvas, the publisher uses a tool called content management system, CMS. It enables publisher to store, create, and manage content on their websites.
 - The publisher will leave some space on the website for advertising. Ads server will place the ads.
 - When person's browser requests a web page from the publisher, some data about a person is sent to the publisher. That information is used to bring the right content to the person, but it's also sent to the Ad server to make sure a relevant Ad is displayed. 
+
+## 5. Web server log
+A server record of a person and a website or app  
+- user's ip address
+- a unique identifier  
+  This identifier is typically pulled from the person's browser and is usually a sequence of characters. Note, that this is not personally identifiable information also referred to as PII. So, no names or physical addresses are stored here.   
+- username 
+- date and timestamp
+- content request 
+- http status code(200 for success and 404 for fail)
+- size of content  
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/105503216/212895125-66e7923c-9164-468e-8996-41f4d85aa46d.png">
+
+## 6. Cookie
+ A formatted piece of text that gets stored in a person's browser.    
+Web and ad servers can store some information about your interaction in a special storage area in your browser. When you interact with content from the same publisher or advertiser later, the publisher can call up the information it's stored in your browser to help it remember a few things about you and your previous interactions.  
+
+### 6.1 First-party cookie
+text files stored in your browser by the sites that you're actually visiting. 
+
+### 6.2 Third-party cookie
+text files stored in your browser by a third party with whom you don't have a direct relationship.    
+there may be an advertiser who stores some information in your browser while you visit a news site.   
+The advertisers can do that because it has an ad showing on the news site you are visiting
+
+### 6.3 Cookie related problems
+- People use multiple devices and browers
+- can be erased or blocked
+- can't work on mobile apps
