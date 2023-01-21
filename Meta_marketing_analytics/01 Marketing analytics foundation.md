@@ -88,6 +88,12 @@ The advertisers can do that because it has an ad showing on the news site you ar
 - can be erased or blocked
 - can't work on mobile apps
 
+#### 5.2.2 Example of cookie
+Present people who hesitate to subscribe with a coupon on their next visit.   
+- when people access the Calla & Ivy website, a cookie is added to their browser. It stores information about a user's visit to the site and it stores whether people accessed the page that describes the subscription.   
+- when people leave the site and come back at a later point, the cookie will help recall that this person had already been to the site and had shown an interest in the subscription.   
+- If that is the case, a large overlay with the coupon comes up on the page the user is visiting, encouraging them to subscribe and get the free bouquet.
+
 ### 5.3 Tags/pixel
 Small piece of code that instructs website to send information to a third party(google analytics).   
 The code is added by the publisher.  
@@ -104,7 +110,13 @@ The toolbox contains code developers can install to help create applications. In
 ### 5.5 API(application programming interface) 
 a tool that establishes a connection between two pieces of software.   
 
-The marketing takes place using one system, like advertising using Google for instance. But behavior we want to influence takes place on other, a purchase on a website, an app download, a purchase in a store, and so on. Many of the systems we talked about so far will help marketers to make connections. But these systems often have dependencies that are a bit out of our control, like blocking the cookie or erasing the records. 
+The marketing takes place using one system, like advertising using Google for instance. But behavior we want to influence takes place on other, a purchase on a website, an app download, a purchase in a store, and so on. 
+
+#### 5.5.1 Example of API
+- Owners can connect their instore customer management software to the Facebook API. 
+- every time a purchase is made in-store, data can be sent to Facebook. Based on some information that may be known about the purchaser, like the email address for instance, it may be possible to link the purchaser to a known Facebook user Id.  
+- team can then assess whether the purchaser saw an Instagram ad and may thus have been influenced by that ad to make a purchase.
+
 
 ### 5.6 UID(Unique user id)
 It is a unique text or number string that identifies a person and it is created when the user logs in.   
