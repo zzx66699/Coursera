@@ -58,6 +58,17 @@ know people outside their audience think about their brands
 - The publisher will leave some space on the website for advertising. Ads server will place the ads.
 - When person's browser requests a web page from the publisher, some data about a person is sent to the publisher. That information is used to bring the right content to the person, but it's also sent to the Ad server to make sure a relevant Ad is displayed. 
 
+### 4.1 UID(Unique user id)
+It is a unique text or number string that identifies a person and it is created when the user logs in.   
+
+The UID makes it possible for publishers to link behavior from a person on different browsers and on apps so that it's possible to get a clearer and more complete picture of the users across platforms. 
+
+### 4.2 Device ID
+- In both iOS and android, an ID is stored in the settings of the device and that ID can be accessed by advertisers if the user allows it.   
+- When users interact with advertising in an app and they have opted in to share their device ID with advertisers, it makes it possible for the advertisers to advertise to you across different apps. 
+- they can show ads and track behavior on one app, like Instagram for instance, and then use that information to advertise to you while you're using a different app.   
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/105503216/212923069-e57942d0-e4d9-4671-95be-e3b46d0117ac.png">
+
 ## 5. Source of digital data
 ### 5.1 Web server log
 A server record of a person and a website or app  
@@ -117,14 +128,6 @@ The marketing takes place using one system, like advertising using Google for in
 - every time a purchase is made in-store, data can be sent to Facebook. Based on some information that may be known about the purchaser, like the email address for instance, it may be possible to link the purchaser to a known Facebook user Id.  
 - team can then assess whether the purchaser saw an Instagram ad and may thus have been influenced by that ad to make a purchase.
 
+## 6. Data privacy
+Ads blocker, cookie blocker and VPN(virtual private network)
 
-### 5.6 UID(Unique user id)
-It is a unique text or number string that identifies a person and it is created when the user logs in.   
-
-The UID makes it possible for publishers to link behavior from a person on different browsers and on apps so that it's possible to get a clearer and more complete picture of the users across platforms. 
-
-### 5.7 Device ID
-- In both iOS and android, an ID is stored in the settings of the device and that ID can be accessed by advertisers if the user allows it.   
-- When users interact with advertising in an app and they have opted in to share their device ID with advertisers, it makes it possible for the advertisers to advertise to you across different apps. 
-- they can show ads and track behavior on one app, like Instagram for instance, and then use that information to advertise to you while you're using a different app.   
-<img width="224" alt="image" src="https://user-images.githubusercontent.com/105503216/212923069-e57942d0-e4d9-4671-95be-e3b46d0117ac.png">
