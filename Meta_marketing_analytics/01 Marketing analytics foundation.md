@@ -131,3 +131,18 @@ The marketing takes place using one system, like advertising using Google for in
 ## 6. Data privacy
 Ads blocker, cookie blocker and VPN(virtual private network)
 
+## 7. The advertising ecosystem
+<img width="791" alt="image" src="https://user-images.githubusercontent.com/105503216/216741281-f5755d03-bf5c-4aa2-a126-6e01b934cf8d.png">  
+- Publisher partners: ad exchanges / measurement providers, improve the effctiveness and efficiency of advertisng on pulisher's site  
+- ad exchanger: agency or intermediary to enable advertiser and publisher to come together to buy and sell ads.   
+- measurement provider: Measurement providers include third-party providers and ad providers that offer measurements solutions.This helps the publisher and the advertisers evaluate the effectiveness of advertising to further optimize their ads.
+
+## 8. Data type
+### 8.1 First party data
+the data that consumer directly provide to the company
+
+### 8.2 Second party data
+the data that the first party shares to another company 
+
+### 8.3 Third party data
+the data collected by cookies by browsing history  
